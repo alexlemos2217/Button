@@ -1,7 +1,6 @@
 # Button
 Button to practice a little bit of CSS
 
-[url=https://postimg.cc/8FN4HNZF][img]https://i.postimg.cc/8FN4HNZF/demo3.png[/img][/url]
+[![demo4.png](https://i.postimg.cc/XYPhM5ZJ/demo4.png)](https://postimg.cc/k2xwKBv3)
 
-[url=https://postimg.cc/k2xwKBv3][img]https://i.postimg.cc/k2xwKBv3/demo4.png[/img][/url]
-
+[![demo3.png](https://i.postimg.cc/pdnSPd8B/demo3.png)](https://postimg.cc/8FN4HNZF)
